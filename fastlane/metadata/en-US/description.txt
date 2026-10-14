@@ -1,0 +1,19 @@
+Footlight is a daily chore board for a multi-pet household. Each pet owns a column. Chores stack in that column in a fixed order, and you strike the top open chore in a column until every active chore is done and the day is sealed. It is for people who want per-pet order, not one shared list.
+
+• One column per pet on Today
+• Chores stacked in order inside that column
+• Strike the top "Open" chore with a right swipe or a tap
+• "Waiting" chores stay in order; a swipe or tap there keeps the order instead of striking
+• "Struck" marks a chore done for today
+• "Undo last strike"
+• The day seals when every active chore is struck
+• "Seal streak" on Today
+• "Seals" history and "Order kept" history
+• Add and edit pets: "Name", "Species", "Accent" ("Violet", "Ink", "Mist")
+• Attach "Morning feed", "Evening walk", or "Evening meds" to a pet
+• "Sort" order and "Active" / "Paused"
+• "Run onboarding again"
+• "Reset all data"
+• "Contact Footlight"
+
+Everything stays on this device. A new calendar day starts every active chore "Open" again.

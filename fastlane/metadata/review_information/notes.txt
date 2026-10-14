@@ -1,0 +1,21 @@
+The app requests no permissions. There is no usage-description string.
+
+There is no login, no in-app purchase, no user-generated content, no account deletion flow, and no App Tracking Transparency prompt.
+
+Footlight is a daily chore board for a multi-pet household. Each pet owns a column. Chores stack in that column in a fixed order, and you strike the top open chore in a column until every active chore is done and the day is sealed. It is for people who want per-pet order, not one shared list.
+
+No credentials or demo account are needed. A cold first launch shows a brief system launch screen with no title, then a placeholder grid. If onboarding has not been finished, a full-screen flow covers the app and cannot be swiped away. Continue and Skip appear on every page. Page 1 title is Each pet has a column, body Each pet has its own column. Chores stack in order inside that column. Page 2 title is Swipe the top open chore, body Swipe the top open chore to strike it. A swipe lower in the column keeps the order. Page 3 title is The curtain seals the day, body The curtain seals the day when every chore is struck, and the streak rail records that seal. Tap Skip on any page to close the flow. If the grid has no pets, that writes one pet named Moth (species Cat, accent Violet) and one chore Morning feed, then opens Today. Continue on pages 1 and 2 advances. Continue on page 3 closes the flow and opens Today with no sample pets. That empty home shows Settings, No chores yet, Add a pet and a routine, and Add a pet.
+
+After Skip, Today shows caption Today and the next-step line Swipe Morning feed under Moth. The Open block shows Morning feed, Moth, and Open. A right swipe or a tap on that Open block strikes it. A right swipe or a tap on Waiting or Struck does not strike it and records that the order was kept. After at least one strike, Undo last strike appears. When every active chore is struck, the line reads Every chore is struck. This day is sealed. The rail under the columns reads Seal streak 0. This day is October 14, 2026. until today is sealed. The streak counts consecutive sealed days walking backward from today. A hamburger control (More) opens Pets, Chores, Seals, and Settings. If a saved grid cannot be read, a notice appears above the grid with Try again.
+
+Open Pets to add or edit a pet. Add starts a new pet. Fields are Name, Species, Accent with Violet, Ink, and Mist, and Save pet. Save pet stays disabled until both Name and Species have text. Swipe a row to Delete. Close dismisses Pets. Open Chores. If there are no pets, Add a pet closes Chores and opens Pets. If there are pets but no chores, Add a chore immediately writes Morning feed for the first pet. The Attach section offers Chore (Morning feed, Evening walk, or Evening meds only), Pet, stepper Sort, Active, and Save chore. Close dismisses Chores. Open Seals to read section Seals (rows such as Sealed day 20261014.) and section Order kept (rows such as Order kept on day 20261014.). If empty, the screen shows No seals yet and Back to today. Close dismisses Seals. Open Settings for the summary, Run onboarding again, Reset all data, and Contact Footlight. Reset all data shows Reset the grid? with Erase the grid or Cancel.
+
+Everything stays on this device. Contact Footlight in Settings opens the contact page.
+
+There is no region lock. English copy only. The day flips with the device calendar. The streak date is always an English Month D, YYYY line.
+
+No licence or regulated-industry paperwork applies. The app is a personal chore board and does not provide medical, veterinary, or other regulated services.
+
+Evening meds is only a chore title. There is no health or medical information and no citations. The app is a personal log only and gives no recommendations.
+
+The app does not scan barcodes or QR codes.

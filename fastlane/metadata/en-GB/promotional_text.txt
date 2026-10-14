@@ -1,0 +1,1 @@
+A daily chore board for a household with more than one pet. Each pet has a column. Strike the top Open chore until every active chore is struck and the day is sealed.

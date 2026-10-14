@@ -1,4 +1,4 @@
-<!-- gf-brief source=37a55fb3c45a934cb09ea2e7236d5d3b83064d1abb8026ec3802c04c99f55957 written=2026-10-14T14:41:05+03:00 -->
+<!-- gf-brief source=37a55fb3c45a934cb09ea2e7236d5d3b83064d1abb8026ec3802c04c99f55957 written=2026-10-14T14:44:29+03:00 -->
 # Footlight
 
 ## What it is

@@ -1,11 +1,3 @@
-Version 1.0 is the first release of Footlight, a daily chore board for a household with more than one pet.
-
-Today stays on screen with one column per pet. Chores stack in a fixed order. Strike the top Open chore with a swipe to the right or a tap. A swipe or tap on Waiting or Struck keeps the order. Undo last strike restores the most recent strike for today and, if that reopens a chore, removes today's seal.
-
-The day seals when every active chore is struck. The rail under the columns shows Seal streak and an English Month D, YYYY date. Seals stores Sealed day history and Order kept history.
-
-Pets adds Name, Species and Accent (Violet, Ink, Mist). Chores attaches Morning feed, Evening walk or Evening meds, with Sort from 0 to 20 and Active or Paused.
-
-Onboarding uses Continue and Skip. Skip writes Moth (Cat, Violet) and Morning feed. Continue through all three pages writes nothing. Settings includes Run onboarding again, Reset all data and Contact Footlight.
-
-English copy only. Portrait only, full-screen, on iPhone and iPad. Dark appearance. Minimum iOS 17.0. Everything stays on this device.
+Version 1.1 keeps Bonzana polished and reliable.
+• Stability and performance improvements
+• Small refinements throughout the app
